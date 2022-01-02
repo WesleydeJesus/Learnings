@@ -9,6 +9,6 @@ import (
 
 func main() {
 	database.ConnectDB()
-	fmt.Println("Inicializando server")
+	fmt.Println("Initialize server")
 	routes.HandleRequest()
 }
