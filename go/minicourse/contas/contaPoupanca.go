@@ -1,6 +1,6 @@
 package contas
 
-import "Learnings/go/clientes"
+import "Learnings/go/minicourse/clientes"
 
 
 type ContaPoupanca struct {
